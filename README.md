@@ -1,68 +1,79 @@
-<h2 align="left">Hi 👋! My name is Diaa Elsadek and I'm a Full Stack Web Developer, from Egypt</h2>
+<h1 align="center">✨ Hey, I’m <span style="color:#ff4f87">Diaa Elsadek</span> 👋</h1>
+<h3 align="center">🚀 Aspiring Fullstack Web Developer | React.js & Node.js Enthusiast | Passionate Problem Solver</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+modern+web+apps+with+React+%26+Node.js;Loving+clean+code+%26+solid+architecture;Always+learning+and+sharing!" alt="Typing SVG" />
+</p>
 
-<p align="left">I'm a third-year student at the Higher Technological Institute and a Fullstack web developer</p>
+---
 
-###
+### 🧠 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiaaElsadek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiaaElsadek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 📍 From Egypt 🇪🇬  
+- 👨‍🎓 Computer Science Student @ **HTI – Higher Technological Institute, 10th of Ramadan** (2022–2026)  
+- 👨‍💻 Currently Training with **Digital Egypt Pioneers Initiative** – Fullstack Development Track  
+- 🧪 Focused on modern frontend (React) & backend (Node.js, ASP.NET)  
+- ⚡ Fast learner, clean coder, and coffee-powered debugger ☕😄  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-</div>
+### 🛠️ Tech Stack
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,html,css,bootstrap,tailwind,mui,cpp,dotnet,csharp,sql,git,github,postman,vscode" />
+</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/diaa-elsadek-1b82682a8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="diaa20._#1124" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="50" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/201117244172" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="70" height="50" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/_diiaaaaa_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/diaa.elsadek.1232?rdid=QrNwAecgodgNKUmC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F14EmtQxjhpZ%2F#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="50" alt="facebook logo"  />
-  </a>
-  <a href="mailto:diaadido1246@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+### 💼 Experiences
 
-<br clear="both">
+- 👨‍💻 **Fullstack Web Developer** – Personal & Academic Projects  
+  → Built full web applications with React (frontend) and Node.js / ASP.NET (backend).  
+- 🎓 **Trainee** @ Digital Egypt Pioneers (2025)  
+  → Fullstack training – teamwork, real-world apps, and clean architecture.  
 
+---
+
+### 🚀 Projects
+
+| Project | Tech | Link |
+|--------|------|------|
+| 📝 Exam System | ASP.NET, SQL Server, React | [Repo](https://github.com/DiaaElsadek) |
+| 🛍️ E-Commerce Store | React, Redux, Node.js | [Repo](https://github.com/DiaaElsadek) |
+| 🎮 Chess Bot Experiments | C++, Algorithms | [Repo](https://github.com/DiaaElsadek) |
+
+---
+
+### 🏅 Certificates & Achievements
+
+- ✅ **Responsive Web Design** – freeCodeCamp  
+- ✅ **JavaScript Algorithms & Data Structures** – freeCodeCamp  
+- ✅ **.NET Fullstack Training** – Digital Egypt Pioneers Initiative (DEPI)  
+- 🥇 **Top Student Projects Recognition** – HTI University Hackathon 2024  
+- 🌟 Continuous learner on platforms like **LeetCode, HackerRank, Codeforces**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiaaElsadek&show_icons=true&theme=radical" alt="stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiaaElsadek&theme=radical" alt="streaks" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="mailto:diaaelsadek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/diaa-elsadek"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/DiaaElsadek"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
