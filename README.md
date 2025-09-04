@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey, I’m <span style="color:#ff4f87">Diaa Elsadek</span> 👋</h1>
-<h3 align="center">🚀 Aspiring Fullstack Web Developer | React.js & Node.js Enthusiast | Passionate Problem Solver</h3>
+<h3 align="center">🚀 Aspiring Fullstack Web Developer | React.js & ASP.NET Enthusiast | Passionate Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+modern+web+apps+with+React+%26+Node.js;Loving+clean+code+%26+solid+architecture;Always+learning+and+sharing!" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 - 📍 From Egypt 🇪🇬  
 - 👨‍🎓 Computer Science Student @ **HTI – Higher Technological Institute, 10th of Ramadan** (2022–2026)  
 - 👨‍💻 Currently Training with **Digital Egypt Pioneers Initiative** – Fullstack Development Track  
-- 🧪 Focused on modern frontend (React) & backend (Node.js, ASP.NET)  
+- 🧪 Focused on modern frontend (React.JS) & backend (Node.js, ASP.NET)  
 - ⚡ Fast learner, clean coder, and coffee-powered debugger ☕😄  
 
 ---
@@ -35,13 +35,13 @@
 ---
 
 ### 🚀 Projects
-
+<!--
 | Project | Tech | Link |
 |--------|------|------|
 | 📝 Exam System | ASP.NET, SQL Server, React | [Repo](https://github.com/DiaaElsadek) |
 | 🛍️ E-Commerce Store | React, Redux, Node.js | [Repo](https://github.com/DiaaElsadek) |
 | 🎮 Chess Bot Experiments | C++, Algorithms | [Repo](https://github.com/DiaaElsadek) |
-
+-->
 ---
 
 ### 🏅 Certificates & Achievements
@@ -67,9 +67,9 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="mailto:diaaelsadek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/diaa-elsadek"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/DiaaElsadek"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:diaadido1246@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/diaa-elsadek](https://www.linkedin.com/in/diaaelsadek/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://github.com/DiaaElsadek](https://github.com/DiaaElsadek/)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
