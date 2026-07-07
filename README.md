@@ -1,79 +1,111 @@
-<h1 align="center">✨ Hey, I’m <span style="color:#ff4f87">Diaa Elsadek</span> 👋</h1>
-<h3 align="center">🚀 Aspiring Fullstack Web Developer | React.js & ASP.NET Enthusiast | Passionate Problem Solver</h3>
+# Diaa Elsadek
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+modern+web+apps+with+React+%26+Node.js;Loving+clean+code+%26+solid+architecture;Always+learning+and+sharing!" alt="Typing SVG" />
+  <a href="mailto:diaadido1246@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/diaaelsadek/">LinkedIn</a> •
+  <a href="https://github.com/DiaaElsadek">GitHub</a>
+</p>
+
+<p align="center">
+  <em>Engineering reliable systems through thoughtful architecture and clean code.</em>
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 📍 From Egypt 🇪🇬  
-- 👨‍🎓 Computer Science Student @ **HTI – Higher Technological Institute, 10th of Ramadan** (2022–2026)  
-- 👨‍💻 Currently Training with **Digital Egypt Pioneers Initiative** – Fullstack Development Track  
-- 🧪 Focused on modern frontend (React.JS) & backend (Node.js, ASP.NET)  
-- ⚡ Fast learner, clean coder, and coffee-powered debugger ☕😄  
+Computer Science student at HTI – Higher Technological Institute, currently training with the Digital Egypt Pioneers Initiative. I approach software development with a focus on maintainability, performance, and user experience.
+
+My work spans modern full-stack development—React on the frontend, Node.js and ASP.NET on the backend—with an emphasis on building systems that are both robust and scalable.
 
 ---
 
-### 🛠️ Tech Stack
+### Current Focus
+
+- System Architecture & Design Patterns
+- ASP.NET Core & C#
+- Clean Architecture principles
+- Distributed Systems
+- Performance Optimization
+- AI Engineering
+
+---
+
+### Engineering Principles
+
+- **Solve the problem before writing the solution** — Architecture first, code second.
+- **Build for maintainability** — Code is read more often than it's written.
+- **Embrace simplicity** — Complexity is easy; clarity takes effort.
+- **Measure before optimizing** — Data-informed decisions over intuition.
+- **Automate the routine** — Let machines handle repetition.
+- **Write for humans** — Code that communicates intent is code that endures.
+- **Own the outcome** — From design to deployment, take responsibility.
+
+---
+
+### Technology Stack
+
+| Domain               | Technologies |
+|----------------------|--------------|
+| **Frontend**         | React, TypeScript, JavaScript, Tailwind, Bootstrap, MUI |
+| **Backend**          | Node.js, Express, ASP.NET, C#, .NET |
+| **Database**         | SQL Server, PostgreSQL |
+| **Languages**        | C#, JavaScript, TypeScript, C++ |
+| **Tools & Practices**| Git, GitHub, Postman, REST API Design, Clean Code |
+
+---
+
+### Experience
+
+**Fullstack Web Developer** — Personal & Academic Projects
+- Designed and implemented full-stack web applications using React and Node.js.
+- Applied clean architecture and SOLID principles to ensure maintainability.
+- Integrated RESTful APIs and database systems for complete data persistence.
+
+**Trainee** — Digital Egypt Pioneers Initiative (2025)
+- Participated in intensive full-stack development training.
+- Collaborated on real-world application development with emphasis on clean architecture and team workflows.
+
+---
+
+### Projects
+
+| Project | Description | Technologies | Status |
+|---------|-------------|--------------|--------|
+| Exam System | Academic examination platform with role-based access and automated grading | ASP.NET, SQL Server, React | In Development |
+| E-Commerce Store | Full-featured online store with cart, authentication, and order management | React, Redux, Node.js, Express, MongoDB | In Development |
+| Chess Engine | Chess move generation and basic AI implementation | C++, Algorithms | Research |
+
+---
+
+### GitHub Statistics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,html,css,bootstrap,tailwind,mui,cpp,dotnet,csharp,sql,git,github,postman,vscode" />
-</p>
-
----
-
-### 💼 Experiences
-
-- 👨‍💻 **Fullstack Web Developer** – Personal & Academic Projects  
-  → Built full web applications with React (frontend) and Node.js / ASP.NET (backend).  
-- 🎓 **Trainee** @ Digital Egypt Pioneers (2025)  
-  → Fullstack training – teamwork, real-world apps, and clean architecture.  
-
----
-
-### 🚀 Projects
-<!--
-| Project | Tech | Link |
-|--------|------|------|
-| 📝 Exam System | ASP.NET, SQL Server, React | [Repo](https://github.com/DiaaElsadek) |
-| 🛍️ E-Commerce Store | React, Redux, Node.js | [Repo](https://github.com/DiaaElsadek) |
-| 🎮 Chess Bot Experiments | C++, Algorithms | [Repo](https://github.com/DiaaElsadek) |
--->
----
-
-### 🏅 Certificates & Achievements
-
-- ✅ **Responsive Web Design** – freeCodeCamp  
-- ✅ **JavaScript Algorithms & Data Structures** – freeCodeCamp  
-- ✅ **.NET Fullstack Training** – Digital Egypt Pioneers Initiative (DEPI)  
-- 🥇 **Top Student Projects Recognition** – HTI University Hackathon 2024  
-- 🌟 Continuous learner on platforms like **LeetCode, HackerRank, Codeforces**
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiaaElsadek&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiaaElsadek&show_icons=true&theme=radical&hide_border=true&hide=stars" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiaaElsadek&theme=radical" alt="streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiaaElsadek&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### Recognition
 
-<p align="center">
-  <a href="mailto:diaadido1246@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/diaa-elsadek](https://www.linkedin.com/in/diaaelsadek/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://github.com/DiaaElsadek](https://github.com/DiaaElsadek/)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+- **Responsive Web Design** — freeCodeCamp
+- **JavaScript Algorithms & Data Structures** — freeCodeCamp
+- **.NET Fullstack Training** — Digital Egypt Pioneers Initiative
+- **Top Student Projects** — HTI University Hackathon 2024
+- Active participation on LeetCode, HackerRank, and Codeforces
+
+---
+
+### Connect
+
+<a href="mailto:diaadido1246@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/diaaelsadek/">LinkedIn</a> •
+<a href="https://github.com/DiaaElsadek">GitHub</a>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <sub>Built with curiosity, maintained with discipline.</sub>
 </p>
