@@ -1,79 +1,69 @@
-<h1 align="center">✨ Hey, I’m <span style="color:#ff4f87">Diaa Elsadek</span> 👋</h1>
-<h3 align="center">🚀 Aspiring Fullstack Web Developer | React.js & ASP.NET Enthusiast | Passionate Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+modern+web+apps+with+React+%26+Node.js;Loving+clean+code+%26+solid+architecture;Always+learning+and+sharing!" alt="Typing SVG" />
+```text
+     _ _             _____ _               _      _
+    | (_) __ _  __ _| ____| |___  __ _  __| | ___| | __
+    | | |/ _` |/ _` |  _| | / __|/ _` |/ _` |/ _ \ |/ /
+    | | | (_| | (_| | |___| \__ \ (_| | (_| |  __/   <
+    |_|_|\__,_|\__,_|_____|_|___/\__,_|\__,_|\___|_|\_\
+```
+
+<h3><code>diaa@github:~$ whoami</code></h3>
+
+> Front-end developer building clean, useful digital experiences.
+
+<p>
+  <a href="https://github.com/DiaaElsadek?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-explore-111111?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="mailto:diaadido1246@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-say%20hello-111111?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
----
-
-### 🧠 About Me
-
-- 📍 From Egypt 🇪🇬  
-- 👨‍🎓 Computer Science Student @ **HTI – Higher Technological Institute, 10th of Ramadan** (2022–2026)  
-- 👨‍💻 Currently Training with **Digital Egypt Pioneers Initiative** – Fullstack Development Track  
-- 🧪 Focused on modern frontend (React.JS) & backend (Node.js, ASP.NET)  
-- ⚡ Fast learner, clean coder, and coffee-powered debugger ☕😄  
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### <code>diaa@github:~$ neofetch</code>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,html,css,bootstrap,tailwind,mui,cpp,dotnet,csharp,sql,git,github,postman,vscode" />
+```text
+             .--.                 diaa@github
+            |o_o |                --------------------------
+            |:_/ |                Role: Front-end Developer
+           //   \ \               Focus: thoughtful web interfaces
+          (|     | )              Stack: React · Vite · Tailwind CSS
+         /'\_   _/`\              Learning: building better every day
+         \___)=(___/              Location: Egypt
+```
+
+### <code>diaa@github:~$ ls ./toolbox</code>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
----
+### <code>diaa@github:~$ cat now.txt</code>
 
-### 💼 Experiences
+```text
+→ Building responsive React applications
+→ Turning ideas into polished interfaces
+→ Exploring modern front-end patterns
+→ Open to collaboration and interesting projects
+```
 
-- 👨‍💻 **Fullstack Web Developer** – Personal & Academic Projects  
-  → Built full web applications with React (frontend) and Node.js / ASP.NET (backend).  
-- 🎓 **Trainee** @ Digital Egypt Pioneers (2025)  
-  → Fullstack training – teamwork, real-world apps, and clean architecture.  
+### <code>diaa@github:~$ git log --oneline --future</code>
 
----
-
-### 🚀 Projects
-<!--
-| Project | Tech | Link |
-|--------|------|------|
-| 📝 Exam System | ASP.NET, SQL Server, React | [Repo](https://github.com/DiaaElsadek) |
-| 🛍️ E-Commerce Store | React, Redux, Node.js | [Repo](https://github.com/DiaaElsadek) |
-| 🎮 Chess Bot Experiments | C++, Algorithms | [Repo](https://github.com/DiaaElsadek) |
--->
----
-
-### 🏅 Certificates & Achievements
-
-- ✅ **Responsive Web Design** – freeCodeCamp  
-- ✅ **JavaScript Algorithms & Data Structures** – freeCodeCamp  
-- ✅ **.NET Fullstack Training** – Digital Egypt Pioneers Initiative (DEPI)  
-- 🥇 **Top Student Projects Recognition** – HTI University Hackathon 2024  
-- 🌟 Continuous learner on platforms like **LeetCode, HackerRank, Codeforces**
+```text
+next  Ship work that is fast, accessible, and easy to use.
+next  Keep learning in public.
+next  Meet great people and build worthwhile things together.
+```
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiaaElsadek&show_icons=true&theme=radical" alt="stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiaaElsadek&theme=radical" alt="streaks" />
-</p>
-
----
-
-### 🔗 Let's Connect
-
-<p align="center">
-  <a href="mailto:diaadido1246@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/diaa-elsadek](https://www.linkedin.com/in/diaaelsadek/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://github.com/DiaaElsadek](https://github.com/DiaaElsadek/)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+<div align="center">
+  <sub>Made with curiosity, coffee, and <code>git commit</code>.</sub>
+</div>
